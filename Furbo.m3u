@@ -1,9 +1,5 @@
 #EXTM3U
-
-#EXTINF:0,	>La1		
-acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842			
-#EXTINF:0,	>La1 UHD		
-acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af			
+		
 #EXTINF:0,	>LaLiga Tv Bar 1080		
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3			
 #EXTINF:0,	>LaLiga Tv Bar 720		
